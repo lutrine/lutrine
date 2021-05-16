@@ -14,7 +14,7 @@ GitHub Stats
 
 # Information about me (@keiiden)
 - Biography:
-  - Born and raised in Poway, California
+  - Born and raised in California
   - Currently attending Poway High School, 11th grade
 - Interests:
   - Video games and their development process
