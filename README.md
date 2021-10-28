@@ -5,19 +5,19 @@ GitHub Stats
 ![](https://github.com/keiiden/github-stats/blob/master/generated/languages.svg)
 </a>
 --->
+<a href="https://discord.com/users/265924886461939712"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/265924886461939712?bg=23283d&theme=dark&borderRadius=10px&hideStatus=true"/></a>
 
-#### 👋 Hi there!
+
+## 📋 Profile
 
 - Pronouns: [he/him](pronoun.is/he/him)
 <!---
 - Biography:
   - Born and raised in California
-  - Currently attending Poway High School, 11th grade
+  - Currently attending Poway High School, 12th grade
 --->
 - Interests:
   - Video games and their development process
   - Developing niche apps for day-to-day quality of life
 - Contact information
-  - Email - [cadenjamason@gmail.com](mailto:cadenjamason@gmail.com)
-  - Discord - caden#9999
-  - Twitter - [@wtfott](https://twitter.com/wtfott)
+  - Email - [me@kdn.pw](mailto:me@kdn.pw)
