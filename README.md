@@ -3,6 +3,6 @@
 ### 📋 Information
 - ♂️ Pronouns: [he/him](https://pronoun.is/he/him)
 - 🌱 Biography:
-  - 17-year-old high school senior from California interested in the field of computer science
+  - 17-year-old college freshman from California interested in the field of computer science
 - ℹ️ Contact information
   - Email - [me@kdn.pw](mailto:me@kdn.pw)
