@@ -1,7 +1,7 @@
 
 ---
 
-<img src="assets/flan.png" alt="My otter fursona, Flan" height="300" align="right">
+<img src="assets/flan.png" alt="My otter fursona, Flan" height="280" align="right">
 
 ### Hey there! 👋
 
