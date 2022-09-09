@@ -1,20 +1,18 @@
-
----
-
-<img src="assets/flan.png" alt="My otter fursona, Flan" height="280" align="right">
-
 ### Hey there! 👋
 
-I like **writing code**, **Linux**, and **FOSS**.
+**I'm Caden (he/him)** — I'm a first-year student at [CSUSM](https://www.csusm.edu) studying Computer Science. I'm interested in **development,** **design**, **Linux**, and **free open-source software (FOSS)**. 
 
-I'm not an expert with any of these, but I try my best nevertheless.
+| Experienced with | Currently learning |
+| :---: | :---: |
+| [![HTML, CSS, and Java](https://skillicons.dev/icons?i=html,css,java)](https://skillicons.dev) | [![JavaScript, Bash, and TailwindCSS](https://skillicons.dev/icons?i=js,tailwindcss)](https://skillicons.dev)
 
-##### MORE INFO
-
-- 🎓 I am a first-year student at [CSUSM](https://www.csusm.edu) studying Computer Science
-- ⚙️ I use Java, Bash, HTML5, and CSS3 most of the time
-- 🦦 Obsessed with otters and other long noodle creatures
-- 💬 Ask me about ricing and Arch Linux!
-- ⚡ Fun fact: I began my programming journey in 2020 with an AP class!
-
----
+<details>
+    <summary><b>GitHub Stats ⚡</b></summary>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=lutrine&title_color=539bf5&bg_color=22272e&text_color=cdd9e5&icon_color=539bf5&border_color=444c56&count_private=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutrine&title_color=539bf5&bg_color=22272e&text_color=cdd9e5&icon_color=539bf5&border_color=444c56&count_private=true&layout=compact" />
+    </a>
+</details>
