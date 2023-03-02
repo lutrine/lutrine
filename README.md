@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-**I'm Caden (he/him)** — I'm a first-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **development,** **design**, **Linux**, and **free & open-source software (FOSS)**. 
+**I'm Caden (he/him)** — a first-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **software development,** **web design**, **Linux**, and **free & open-source software (FOSS)**. 
 
 <details>
     <summary><b>GitHub Stats ⚡</b></summary>
