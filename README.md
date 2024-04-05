@@ -2,9 +2,9 @@
 
 **I'm Caden (he/him)** — a second-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **software development,** **web design**, **Linux**, and **free & open-source software (FOSS)**.
 
-| Experienced with | Currently learning |
-| :---: | :---: |
-| [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+| Experienced with |
+| :---: |
+| [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | 
 
 #### My projects:
 - [lutrine/learncpp](https://github.com/lutrine/learncpp) – I'm learning C++ in my own time to be prepared for my classes later this year!
