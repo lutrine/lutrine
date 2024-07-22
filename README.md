@@ -1,14 +1,12 @@
 ### Hey there! 👋
 
-**I'm Caden (he/him)** — a second-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **software development,** **web design**, **Linux**, and **free & open-source software (FOSS)**.
+**I'm Caden (he/him)** — a third-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **software development,** **web design**, **Linux**, and **free & open-source software (FOSS)**.
 
-| Experienced with |
-| :---: |
-| [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | 
-
-#### My projects:
-- [lutrine/learncpp](https://github.com/lutrine/learncpp) – I'm learning C++ in my own time to be prepared for my classes later this year!
-- [lutrine.dev](https://www.lutrine.dev) – I created a website hosted on [Bear Blog](https://bearblog.dev/) to house my contact information and random ramblings.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,py,azure" />
+  </a>
+</p>
 
 --- 
 
