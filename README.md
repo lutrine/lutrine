@@ -4,6 +4,7 @@
 
 [![](https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,py,azure)](https://skillicons.dev)
 
+<!--
 <details>
     <summary><b>GitHub Stats ⚡</b></summary>
     <br>
@@ -14,3 +15,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutrine&title_color=539bf5&bg_color=22272e&text_color=cdd9e5&icon_color=539bf5&border_color=444c56&count_private=true&layout=compact" />
     </a>
 </details>
+-->
