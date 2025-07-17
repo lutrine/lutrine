@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
-**I'm Caden (he/him)** — a third-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **software development,** **web design**, **Linux**, and **free & open-source software (FOSS)**.
+**I'm Caden (he/him)** — a fourth-year student at [CSUSM](https://www.csusm.edu) studying computer science. I'm interested in **Linux** and **free & open-source software (FOSS)**.
 
-[![](https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,py,azure)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,go,js,html,css,nodejs,express,py,azure)](https://skillicons.dev)
 
 <!--
 <details>
